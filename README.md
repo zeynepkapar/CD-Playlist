@@ -1,5 +1,5 @@
 # CD-Playlist
-Bu proje, HTML, CSS ve JavaScript kullanılarak geliştirilmiş basit bir müzik çalar uygulamasıdır. Kullanıcıların seçili müzik listesinden şarkı seçmesine, şarkıları karıştırmasına (shuffle), geri ve ileri almasına olanak tanır.
+Bu proje, HTML, CSS ve JavaScript kullanılarak geliştirilmiş basit bir müzik çalar platformudur. Kullanıcıların seçili müzik listesinden şarkı seçmesine, şarkıları karıştırmasına (shuffle), geri ve ileri almasına olanak tanır.
 
 # Özellikler:
 Şarkı seçme ve oynatma
